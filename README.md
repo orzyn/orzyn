@@ -74,8 +74,6 @@ Proyectos indie · Extensiones de navegador · Apps de escritorio
 
 <div align="center">
 
-![Contribution Grid](https://ghchart.rshah.org/2ecc71/orzyn)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orzyn&bg_color=00000000&color=2ecc71&line=2ecc71&point=ffffff&area=true&area_color=2ecc71&hide_border=true&radius=4)
 
 </div>
@@ -84,14 +82,29 @@ Proyectos indie · Extensiones de navegador · Apps de escritorio
 
 ## Filosofia
 
-```javascript
-const orzyn = {
-  enfoque:      "resolver problemas reales con codigo limpio",
-  actitud:      "aprendiendo siempre, construyendo cuando puedo",
-  herramientas: ["extensiones", "apps de escritorio", "utilidades web"],
-  objetivo:     "que cada proyecto ahorre tiempo a alguien"
-};
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>ENFOQUE</strong><br/><br/>
+      <code>resolver problemas reales</code><br/>
+      <code>con codigo limpio</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>ACTITUD</strong><br/><br/>
+      <code>aprendiendo siempre</code><br/>
+      <code>construyendo cuando puedo</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>OBJETIVO</strong><br/><br/>
+      <code>que cada proyecto</code><br/>
+      <code>ahorre tiempo a alguien</code>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
