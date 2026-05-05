@@ -13,7 +13,7 @@
 Proyectos indie · Extensiones de navegador · Apps de escritorio
 
 [![Website](https://img.shields.io/badge/dyonyx.vercel.app-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://dyonyx.vercel.app)
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-1a8a4a?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/es/firefox/user/orzyn/)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-1a8a4a?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/es-ES/firefox/user/19840491/)
 
 </div>
 
