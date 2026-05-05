@@ -48,16 +48,22 @@ Proyectos indie · Extensiones de navegador · Apps de escritorio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orzyn&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=f0c000&icon_color=f0c000&text_color=e0e0e0)
+![GitHub Streak](https://streak-stats.demolab.com?user=orzyn&theme=dark&hide_border=true&background=0f0f0f&ring=f0c000&fire=f0c000&currStreakLabel=f0c000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orzyn&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=f0c000&text_color=e0e0e0)
+</div>
+
+---
+
+## 📊 Actividad
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=orzyn&theme=github-dark&bg_color=0f0f0f&color=f0c000&line=f0c000&point=ffffff&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-
-*Aprendiendo siempre. Construyendo cuando puedo.*
 
 </div>
