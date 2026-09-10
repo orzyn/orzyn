@@ -1,115 +1,86 @@
 <div align="center">
 
-```
- ██████╗ ██████╗ ███████╗██╗   ██╗███╗   ██╗
-██╔═══██╗██╔══██╗╚══███╔╝╚██╗ ██╔╝████╗  ██║
-██║   ██║██████╔╝  ███╔╝  ╚████╔╝ ██╔██╗ ██║
-██║   ██║██╔══██╗ ███╔╝    ╚██╔╝  ██║╚██╗██║
-╚██████╔╝██║  ██║███████╗   ██║   ██║ ╚████║
- ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝
-```
+<p><code>orzyn@github ~ $ ./maintainer.sh</code></p>
 
-**Construyo herramientas que resuelven problemas reales.**
-Proyectos indie · Extensiones de navegador · Apps de escritorio
-
-[![Website](https://img.shields.io/badge/dyonyx.vercel.app-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://dyonyx.vercel.app)
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-1a8a4a?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/es-ES/firefox/user/19840491/)
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="orzyn animated maintainer system scan" />
+</picture>
+</p>
 </div>
 
----
+<h2>Why I build in public</h2>
 
-## Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a8a4a?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1a8a4a?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a8a4a?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a8a4a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-1a8a4a?style=flat-square&logo=electron&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1a8a4a?style=flat-square&logo=sqlite&logoColor=white)
-![WebExtensions](https://img.shields.io/badge/WebExtensions-1a8a4a?style=flat-square&logo=firefox-browser&logoColor=white)
-
-</div>
-
----
-
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Abalar — Extractor de Faltas</h3>
-      <p>Extensión para Firefox que extrae automáticamente todas las faltas del portal educativo Abalar (Xunta de Galicia) y las exporta a CSV con un clic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/WebExtension-1a8a4a?style=flat-square&logo=firefox-browser&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-1a8a4a?style=flat-square&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSV-0d0d0d?style=flat-square&logoColor=white"/>
-      </p>
-      <a href="https://github.com/orzyn/extractor-faltas-abalar">→ Ver repositorio</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Proximamente...</h3>
-      <p>Mas herramientas en desarrollo.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/status-en_construccion-1a8a4a?style=flat-square"/>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Open source</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>1 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>34 contributions · 8 active days</p></td>
+</tr>
 </table>
 
----
+<p>Building in public, documenting the work, and making the next contribution easier.</p>
 
-## Stats
+<h2>Open-source toolbox</h2>
 
-<div align="center">
+<p><code>orzyn@github ~ $ toolbox --list</code></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=orzyn&theme=transparent&hide_border=true&ring=1a8a4a&fire=1a8a4a&currStreakLabel=1a8a4a&sideLabels=1a8a4a&dates=555555&sideNums=e0e0e0&currStreakNum=1a8a4a&background=00000000)](https://git.io/streak-stats)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="orzyn open-source technology toolbox" />
+</picture>
+</p>
 
-</div>
-
----
-
-## Actividad
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orzyn&bg_color=00000000&color=1a8a4a&line=1a8a4a&point=ffffff&area=true&area_color=1a8a4a&hide_border=true&radius=4)
-
-</div>
-
----
-
-## Filosofia
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>ENFOQUE</strong><br/><br/>
-      <code>resolver problemas reales</code><br/>
-      <code>con codigo limpio</code>
-    </td>
-    <td align="center" width="33%">
-      <strong>ACTITUD</strong><br/><br/>
-      <code>aprendiendo siempre</code><br/>
-      <code>construyendo cuando puedo</code>
-    </td>
-    <td align="center" width="33%">
-      <strong>OBJETIVO</strong><br/><br/>
-      <code>que cada proyecto</code><br/>
-      <code>ahorre tiempo a alguien</code>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Tooling will appear as public repositories are indexed.</sub></td>
+</tr>
 </table>
 
-</div>
+<h2>Repositories worth exploring</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&repos=orzyn%2Forzyn&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&repos=orzyn%2Forzyn&v=oss-projects-1&mode=dark" width="860" alt="orzyn maintainer repositories" />
+</picture>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
 
-*Hecho en Galicia · Codigo abierto cuando tiene sentido*
+</tr>
+</table>
 
-</div>
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="orzyn open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="orzyn contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="orzyn community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/orzyn">GitHub</a></p>
+<p align="center"><sub>orzyn · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
