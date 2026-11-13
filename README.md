@@ -1,86 +1,106 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-dark.svg" width="100%" alt="orzyn — software, systems and interfaces">
+  </picture>
 
-<p><code>orzyn@github ~ $ ./maintainer.sh</code></p>
+  <p>
+    <strong>Building useful software, one problem at a time.</strong><br>
+    Developer in progress · Galicia, Spain
+  </p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="orzyn animated maintainer system scan" />
-</picture>
-</p>
+  <p>
+    <a href="#about">About</a> ·
+    <a href="#workbench">Workbench</a> ·
+    <a href="#toolbox">Toolbox</a> ·
+    <a href="https://github.com/orzyn?tab=repositories">Repositories</a>
+  </p>
 </div>
 
-<h2>Why I build in public</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Open source</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>1 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>34 contributions · 8 active days</p></td>
-</tr>
+<h2 id="about"><code>01.</code> About</h2>
+
+```text
+$ whoami
+jorge / orzyn
+
+$ cat interests.txt
+web development
+browser extensions & automation
+software with a purpose
+thoughtful interfaces & interactions
+```
+
+I'm a software development student who likes turning repetitive tasks and everyday problems into simple, practical tools. I enjoy working across the stack, experimenting with interface details, and learning by building.
+
+My approach is straightforward: **solve something real, keep it usable, and improve it with every iteration.**
+
+<h2 id="workbench"><code>02.</code> Workbench</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Utility software</h3>
+      <p>Browser extensions, desktop utilities, and small automations that remove unnecessary steps.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Web experiences</h3>
+      <p>Websites and applications with careful layouts, purposeful motion, and responsive interfaces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Application development</h3>
+      <p>Android, backend, and database projects that help me explore how complete products fit together.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Open-source journey</h3>
+      <p>Learning in public, sharing useful work when it's ready, and improving through feedback.</p>
+    </td>
+  </tr>
 </table>
 
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
+<h2 id="toolbox"><code>03.</code> Toolbox</h2>
 
-<h2>Open-source toolbox</h2>
-
-<p><code>orzyn@github ~ $ toolbox --list</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="orzyn open-source technology toolbox" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Tooling will appear as public repositories are indexed.</sub></td>
-</tr>
+<table>
+  <tr>
+    <td width="24%"><strong>Web</strong></td>
+    <td><code>JavaScript</code> <code>HTML</code> <code>CSS</code></td>
+  </tr>
+  <tr>
+    <td><strong>Applications</strong></td>
+    <td><code>Java</code> <code>Android</code> <code>Electron</code></td>
+  </tr>
+  <tr>
+    <td><strong>Backend & data</strong></td>
+    <td><code>Node.js</code> <code>SQL</code> <code>SQLite</code></td>
+  </tr>
+  <tr>
+    <td><strong>Workflow</strong></td>
+    <td><code>Git</code> <code>GitHub</code> <code>PowerShell</code></td>
+  </tr>
 </table>
 
-<h2>Repositories worth exploring</h2>
+<sub>Technologies I use, study, or experiment with — not a list of expertise claims.</sub>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&repos=orzyn%2Forzyn&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&repos=orzyn%2Forzyn&v=oss-projects-1&mode=dark" width="860" alt="orzyn maintainer repositories" />
-</picture>
-</p>
+<h2><code>04.</code> Working principles</h2>
 
-<table width="100%">
-<tr>
+> **Useful beats flashy.** Details matter, but the purpose comes first.
+>
+> **Build, test, iterate.** Small improvements compound.
+>
+> **Stay curious.** Every project is an opportunity to learn something new.
 
-</tr>
-</table>
+---
 
-<h2>Contribution activity</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="orzyn open-source signal" />
-</picture>
-</p>
-
-<h2>Contribution trail</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="orzyn contribution trail" />
-</picture>
-</p>
-
-<hr />
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=orzyn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268062908%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="orzyn community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/orzyn">GitHub</a></p>
-<p align="center"><sub>orzyn · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+  <p><strong>Interested in what I'm building?</strong></p>
+  <p>
+    <a href="https://github.com/orzyn?tab=repositories">Explore my repositories</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/orzyn">Find me on GitHub</a>
+  </p>
+  <sub>orzyn · Made in Galicia · Built with curiosity</sub>
+</div>
